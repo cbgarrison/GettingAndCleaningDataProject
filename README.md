@@ -24,13 +24,13 @@ Good luck!"
 # Repository
 This repository contains the following files:
 
-README.md, the file currently being read, describing the data and the files created
+README.md - the file currently being read, describing the data and the files created
 
-run_analysis.R, the R script used to transform the raw data from the zip file listed above to tidy data
+run_analysis.R - the R script used to transform the raw data from the zip file listed above to tidy data
 
-final_tidy_data.txt, the tidy dataset that was generated using the run_analysis.R code
+final_tidy_data.txt - the tidy dataset that was generated using the run_analysis.R code
 
-Codebook.md, the code book for the run_analysis.R script
+Codebook.md - the code book for the run_analysis.R script
 
 # R Script (run_analysis.R)
 The R script in this repository can be used to:
